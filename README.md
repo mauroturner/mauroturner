@@ -2,7 +2,6 @@
 <h3 align="center">Desarrollador Full-stack</h3>
 
 <h3 align="left">👨‍💻 Sobre mi</h3>
-<hr>
 <p align="left">
     ¡Hola! Soy Mauro Andrés Turner, técnico informático
     personal y profesional, actualmente estudiante de
@@ -13,7 +12,6 @@
 </p>
 
 <h3 align="left">🛠️ Lenguajes de programación y herramientas</h3>
-<hr>
 <ul>
     <li>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
