@@ -1,8 +1,9 @@
-<h1 align="center">Hola 👋, soy Mauro Turner</h1>
-<h3 align="center">Desarrollador Full-stack</h3>
-
+<h1 align="center">
+![MAURO TURNER](https://user-images.githubusercontent.com/98496210/151393783-f367c4e8-03ec-4f0d-afda-5f97e7feb947.png)
+</h1>
 <h3 align="left">👨‍💻 Sobre mi</h3>
 <p align="left">
+
     ¡Hola! Soy Mauro Andrés Turner, técnico informático
     personal y profesional, actualmente estudiante de
     ingeniería industrial e ingeniería en energía. Tengo
