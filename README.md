@@ -1,5 +1,5 @@
 <h1 align="center">
-![MAURO TURNER](https://user-images.githubusercontent.com/98496210/151393783-f367c4e8-03ec-4f0d-afda-5f97e7feb947.png)
+    <img img="https://user-images.githubusercontent.com/98496210/151393783-f367c4e8-03ec-4f0d-afda-5f97e7feb947.png" alt="Mauro Turner"></img>
 </h1>
 <h3 align="left">👨‍💻 Sobre mi</h3>
 <p align="left">
