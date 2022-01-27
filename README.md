@@ -13,7 +13,15 @@
 
 <h3 align="left">Competencias</h3>
 <ul>
-    <li>a</li>
+    <li>
+        <a 
+           href="https://www.arduino.cc/" 
+           target="_blank" 
+           rel="noreferrer"
+        > 
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> 
+        </a>
+    </li>
     <li>b</li>
     <li>c</li>
 <ul>
