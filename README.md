@@ -25,13 +25,13 @@
         </a>
         <ul>
             <li>a</li>
-        <ul>
+        </ul>
         <ul>
             <li>b</li>
-        <ul>
+        </ul>
         <ul>
             <li>c</li>
-        <ul>      
+        </ul>      
     </li>
     <li>b</li>
     <li>c</li>
