@@ -1,6 +1,15 @@
 <h1 align="center">Hola 👋, soy Mauro Turner</h1>
 <h3 align="center">Desarrollador Full-stack</h3>
 
+<h3 align="left">Sobre mi</h3>
+<p align="left">
+    ¡Hola! Soy Mauro Andrés Turner, técnico informático
+    personal y profesional, actualmente estudiante de
+    ingeniería industrial e ingeniería en energía. Tengo
+    interés en el análisis de datos, análisis y resolución
+    de problemas, diseño y programación de
+    aplicaciones web.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mauro_a_turner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauro_a_turner" height="30" width="40" /></a>
