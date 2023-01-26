@@ -5,12 +5,13 @@
 <h3 align="left">👨‍💻 Sobre mi</h3>
 <p align="left">
 
-    ¡Hola! Soy Mauro Andrés Turner, técnico informático
-    personal y profesional, actualmente estudiante de
-    ingeniería industrial e ingeniería en energía. Tengo
-    interés en el análisis de datos, análisis y resolución
-    de problemas, diseño y programación de
-    aplicaciones web.
+    ¡Hola! Soy Mauro Andrés Turner, técnico informático personal y profesional, actualmente estudiante avanzado de la carrera de ingeniería industrial en la universidad tecnológica nacional, facultad regional Santa Cruz (UTN FRSC). 
+
+Además de los procesos y metodologías de trabajo que giran alrededor de los sistemas de producción también tengo un gran interés por la automatización, transformación y administración que surgen en los sistemas de información(A futuro tengo proyectado hacer una titulación intermedia y final de analista en sistemas e ingeniero informático respectivamente).
+
+Considero que soy una persona comprometida y perseverante en el aspecto personal y laboral. Pienso que tengo una buena capacidad para la resolución de problemas y para gestionar cualquier actividad que genere estrés.
+
+Tengo particular interés sobre el análisis de datos, análisis y resolución de problemas, diseño y programación de aplicaciones web.
 </p>
 
 <h3 align="left">🛠️ Lenguajes de programación y herramientas</h3>
