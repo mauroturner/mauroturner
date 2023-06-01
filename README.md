@@ -7,32 +7,33 @@
 </p>
 
 <h3 align="left">🔧 Competencias como ingeniero industrial</h3>
-<p>
-    ● Análisis de datos
-    ● Gestión de proyectos
-    ● Gestión de calidad
-    ● Gestión de riesgo
-    ● Gestión de la cadena de suministro(Supply Chain)
-    ● Optimización de procesos
-    ● Capacitación y selección del personal
-    ● Investigación de operaciones
-</p>
+<ul>
+  <li>● Análisis de datos</li>
+  <li>● Gestión de proyectos</li>
+  <li>● Gestión de calidad</li>
+  <li>● Gestión de riesgo</li>
+  <li>● Gestión de la cadena de suministro (Supply Chain)</li>
+  <li>● Optimización de procesos</li>
+  <li>● Capacitación y selección del personal</li>
+  <li>● Investigación de operaciones</li>
+</ul>
+
 
 <h3 align="left">🔧 Competencias como técnico informático</h3>
-<p>
-    ● Soporte técnico
-    ● Mantenimiento y reparación de equipos
-    ● Administración de sistemas operativos
-    ● Desarrollo de software
-    ● Diseño y administración de base de datos
-    ● Virtualización y Cloud Computing
-</p>
+<ul>
+  <li>● Soporte técnico</li>
+  <li>● Mantenimiento y reparación de equipos</li>
+  <li>● Administración de sistemas operativos</li>
+  <li>● Desarrollo de software</li>
+  <li>● Diseño y administración de base de datos</li>
+  <li>● Virtualización y Cloud Computing</li>
+</ul>
 
 <h3 align="left">🛠 Herramientas y tecnologías</h3>
-<p>
-    ● Lenguajes de programación: PHP | PYTHON | JS | C#
-    ● Bases de datos: MYSQL | SQLITE | POSTGRESQL | MONGODB
-    ● Frameworks, librerías y otros: Excel | Power BI | SQL Numpy | Pandas | Matplotlib | Seaborn | LARAVEL | EXPRESS | NODE.JS | SASS | REACT | HTML | CSS | XAML | MS PROJECT | Google Suite
-</p>
+<ul>
+  <li>● Lenguajes de programación: PHP | PYTHON | JS | C#</li>
+  <li>● Bases de datos: MYSQL | SQLITE | POSTGRESQL | MONGODB</li>
+  <li>● Frameworks, librerías y otros: Excel | Power BI | SQL Numpy | Pandas | Matplotlib | Seaborn | LARAVEL | EXPRESS | NODE.JS | SASS | REACT | HTML | CSS | XAML | MS PROJECT | Google Suite</li>
+</ul>
 
 <ul>
