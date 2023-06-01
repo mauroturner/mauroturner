@@ -2,8 +2,7 @@
 <h3 align="left"> 👋 Presentación</h3>
 <p align="left">
     ¡Hola! Soy Mauro Andrés Turner, técnico informático personal y profesional, estudiante avanzado de la carrera de ingeniería industrial en la universidad tecnológica nacional, facultad regional Santa Cruz (UTN FRSC). 
-    Además de los procesos y metodologías de trabajo que giran alrededor de los sistemas de producción también tengo un gran interés por la automatización, transformación y administración que surgen en los sistemas de información(A futuro tengo proyectado hacer una titulación intermedia y final de analista en sistemas e ingeniero informático respectivamente).
-    Considero que soy una persona comprometida y perseverante en el aspecto personal y laboral. Pienso que tengo una buena capacidad para la resolución de problemas y para gestionar cualquier actividad que genere estrés.
+    Además de los procesos y metodologías de trabajo que giran alrededor de los sistemas de producción también tengo un gran interés por la automatización, transformación y administración que surgen en los sistemas de información(A futuro tengo proyectado hacer una titulación intermedia y final de analista en sistemas e ingeniero informático respectivamente). En este repositorio principalmente vas a encontrar algoritmos relacionados a cálculo, investigación de operaciones y otros.
 </p>
 
 <h3 align="left">🔧 Competencias como ingeniero industrial</h3>
