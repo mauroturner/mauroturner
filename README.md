@@ -35,4 +35,6 @@
   <li>Frameworks, librerías y otros: Excel | Power BI | SQL Numpy | Pandas | Matplotlib | Seaborn | LARAVEL | EXPRESS | NODE.JS | SASS | REACT | HTML | CSS | XAML | MS PROJECT | Google Suite</li>
 </ul>
 
-<ul>
+<p>Contáctame a través de</p>
+<p>📧 Correo electrónico: <a href="mailto:mauroandresturner@gmail.com">mauroandresturner@gmail.com</a></p>
+<p>📱 WhatsApp: <a href="https://api.whatsapp.com/send?phone=5492966447856">+549 (2966) 447856</a></p>
