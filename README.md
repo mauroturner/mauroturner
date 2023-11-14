@@ -1,4 +1,4 @@
-<img src="https://imgur.com/cUs32kF"></img>
+<img src="https://i.imgur.com/HMEiSKp.png"></img>
 <h3 align="left"> 👋 Presentación</h3>
 <p align="left">
     ¡Hola! Soy Mauro Andrés Turner tengo formación como ingeniero industrial y técnico informático. Cuento con experiencia en el análisis de datos, la implementación de sistemas de información para la automatización de procesos, optimización y recolección de datos.
