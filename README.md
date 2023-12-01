@@ -18,12 +18,6 @@
   <li>MS Project</li>
 </ul>
 
-<h3 align="left">🎨 Hobbies</h3>
-<ul>
-  <li>Ajedrez</li>
-  <li>Videojuegos</li>
-</ul>
-
 <p>Contáctame a través de</p>
 <ul>
     <li>📧 Correo electrónico: <a href="mailto:mauroandresturner@gmail.com">mauroandresturner@gmail.com</a></li>
