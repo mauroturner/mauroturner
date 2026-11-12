@@ -1,3 +1,5 @@
+<img src="./banner.png" alt="Mauro Turner: Ordeno tu información, descubro accionables clave y automatizo tus procesos repetitivos. mauroturner.com" width="100%">
+
 # Mauro Turner
 
 **Data Scientist · AI & Automation Consultant**
