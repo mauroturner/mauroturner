@@ -4,7 +4,7 @@
 
 **Data Scientist · AI & Automation Consultant**
 
-Industrial engineer and IT technician with 4+ years of experience across the data lifecycle: source integration (SAP, ERPs, APIs), ETL/ELT pipelines, production machine learning models, and dashboards for decision-making. I work independently with companies in e-commerce and logistics.
+Industrial engineer and IT technician with 4+ years of experience across the data lifecycle: source integration (SAP, ERPs, APIs), ETL/ELT pipelines, production machine learning models, and dashboards for decision-making.
 
 🌐 [mauroturner.com](https://mauroturner.com) · 📧 [mauroandresturner@gmail.com](mailto:mauroandresturner@gmail.com)
 
