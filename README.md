@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Mauro Turner: Ordeno tu información, descubro accionables clave y automatizo tus procesos repetitivos. mauroturner.com" width="100%">
+<img src="./banner.png" alt="Mauro Turner: I organize your information, uncover key actionable insights and automate your repetitive processes. mauroturner.com" width="100%">
 
 # Mauro Turner
 
